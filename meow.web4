@@ -1,11 +1,12 @@
 <!DOCTYPE web4>
 <web4>
     <head>
-        <title>Meow (Web4 Experiments)</title>
+        <title>Meow Web4 Database</title>
     </head>
     <body>
-        <h1>Meow Search Engine</h1>
+        <h1>Meow Website Databases</h1>
         <p>Here you can find all of our main websites! 🤗</p>
+        <p>You can also navigate Third-Party Website databases by typing the link from the Navigation Bar!</p>
 
         <h2>Normal Internet Websites:</h2>
         <a href="https://www.github.com/ryzenstechdev/">- ryzenstech's GitHub</a>
@@ -13,5 +14,6 @@
         <h2>File sharing:</h2>
         <h2>Useful websites:</h2>
         <h2>Games:</h2>
+        <a href="https://raw.githubusercontent.com/ryzenstechdev/meow-web4/main/snake.py">- Snake</a>
     </body>
 </web4>
