@@ -5,7 +5,13 @@
     </head>
     <body>
         <h1>Meow Search Engine</h1>
-        <p>Welcome, Meow Search Engine is a new method to use internet, you can download Web4 pages without losing data, so you can learn better our programming language and maybe contribute in the making of other websites 🤗</p>
-        <a href="https://www.github.com/ryzenstechdev/">GitHub di ryzenstech</a>
+        <p>Here you can find all of our main websites! 🤗</p>
+
+        <h2>Normal Internet Websites:</h2>
+        <a href="https://www.github.com/ryzenstechdev/">- ryzenstech's GitHub</a>
+        <h2>Chat Websites:</h2>
+        <h2>File sharing:</h2>
+        <h2>Useful websites:</h2>
+        <h2>Games:</h2>
     </body>
 </web4>
